@@ -1,5 +1,9 @@
 # ReactNativeScholapp-Final
-
+## Screens:
+![Welcome](https://snipboard.io/b8H9nD.jpg) ![Login](https://snipboard.io/ZcFG9p.jpg)
+![Home](https://snipboard.io/4tO2Dc.jpg) ![Sign Up](https://snipboard.io/xplR1k.jpg)
+![Profile](https://snipboard.io/RWvrc6.jpg) ![Notification](https://snipboard.io/lDPLSK.jpg)
+![Selling](https://snipboard.io/iId3vN.jpg)
 ## Frontend:
 - React Native
 - Expo Go
