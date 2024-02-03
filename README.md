@@ -1,6 +1,6 @@
 # ReactNativeScholapp-Final
 ## Screens:
-![Welcome](https://snipboard.io/b8H9nD.jpg) ![Login](https://snipboard.io/ZcFG9p.jpg)
+![Welcome]<img src="https://snipboard.io/b8H9nD.jpg" alt="Alt Text" width="300" height="200"> ![Login]<img src="https://snipboard.io/ZcFG9p.jpg" alt="Alt Text" width="300" height="200">
 ![Home](https://snipboard.io/4tO2Dc.jpg) ![Sign Up](https://snipboard.io/xplR1k.jpg)
 ![Profile](https://snipboard.io/RWvrc6.jpg) ![Notification](https://snipboard.io/lDPLSK.jpg)
 ![Selling](https://snipboard.io/iId3vN.jpg)
