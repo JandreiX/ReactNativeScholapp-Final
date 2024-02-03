@@ -1,7 +1,7 @@
 # ReactNativeScholapp-Final
 ## Screens:
-<img src="https://snipboard.io/b8H9nD.jpg" alt="Alt Text" width="200" height="400"> <img src="https://snipboard.io/ZcFG9p.jpg" alt="Alt Text" width="200" height="400">
-<img src="https://snipboard.io/4tO2Dc.jpg" alt="Alt Text" width="200" height="400"> <img src="https://snipboard.io/xplR1k.jpg" alt="Alt Text" width="200" height="400">
+<img src="https://snipboard.io/b8H9nD.jpg" alt="Alt Text" width="200" height="400"> <img src="https://snipboard.io/4tO2Dc.jpg" alt="Alt Text" width="200" height="400">
+<img src="https://snipboard.io/ZcFG9p.jpg" alt="Alt Text" width="200" height="400"> <img src="https://snipboard.io/xplR1k.jpg" alt="Alt Text" width="200" height="400">
 <img src="https://snipboard.io/RWvrc6.jpg" alt="Alt Text" width="200" height="400"> <img src="https://snipboard.io/lDPLSK.jpg" alt="Alt Text" width="200" height="400">
 <img src="https://snipboard.io/iId3vN.jpg" alt="Alt Text" width="200" height="400"> 
 
